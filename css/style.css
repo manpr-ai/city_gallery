@@ -1,0 +1,35 @@
+/* REEBOOT */
+* {
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.1);
+  border: 1px dashed white;
+}
+
+img,
+video,
+svg {
+  width: 100px;
+  height: auto;
+}
+
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+
+/* SIZING */
+
+/* SPACING */
+
+/* FLEX CONTAINER */
+
+/* FLEX ITEMS */
+
+/* TYPO */
+
+/* COMPONENTS */
+
+/* UTILITIES */
+
+/* CUSTOM */
